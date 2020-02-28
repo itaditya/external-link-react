@@ -1,0 +1,19 @@
+{
+  "name": "external-link-react",
+  "version": "0.0.1",
+  "description": "Inform users when they try to access external links from your website",
+  "main": "main.bundle.js",
+  "files": [
+    "main.bundle.js"
+  ],
+  "scripts": {
+    "demo": "cp lib/useExternalLink.js demo/src/useExternalLink.js && cd demo && npm start",
+    "build": "rollup -c"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "rollup": "^1.31.1"
+  }
+}
