@@ -1,6 +1,6 @@
 {
   "name": "external-link-react",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Inform users when they try to access external links from your website",
   "main": "main.bundle.js",
   "files": [
