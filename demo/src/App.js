@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { useExternalLink } from './useExternalLink.js';
+import { useExternalLink } from './externalLink.js';
 
 import './App.css';
 
